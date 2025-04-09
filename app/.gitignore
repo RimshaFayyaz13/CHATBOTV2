@@ -1,0 +1,18 @@
+# Virtual environment
+chatbot_env/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+chroma_db/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Models & data
+models/
+data/
+RagBot.ipynb/
+
+# .gitignore
+.env

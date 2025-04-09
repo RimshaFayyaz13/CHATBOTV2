@@ -1,5 +1,7 @@
 # Virtual environment
 chatbot_env/
+*.dll
+*.lib
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
